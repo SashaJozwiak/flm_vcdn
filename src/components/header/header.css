@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: white;
+}
+
+.nav {
+    font-family: "Lucida Console", Monaco, monospace;
+    text-transform: uppercase;
+    font-style: revert;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 3px 3px 1px rgb(255 255 255 / 60%);
+}
